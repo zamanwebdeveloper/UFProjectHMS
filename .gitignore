@@ -1,0 +1,15 @@
+/node_modules
+/public/storage
+/storage/framework/views
+/storage/framework/cache
+/storage/framework/sessions
+/public/uploads
+/public/all_image
+/public/img
+/vendor
+/.idea
+
+Homestead.json
+Homestead.yaml
+.env
+.env
